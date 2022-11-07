@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "123",
+    "username": "XXXXXX",
+    "password": "XXX",
     "database": "repertorio",
-    "host": "127.0.0.1",
+    "host": "XXXXX",
     "dialect": "postgresql"
   },
   "test": {
